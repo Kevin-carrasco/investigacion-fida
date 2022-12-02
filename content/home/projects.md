@@ -32,8 +32,10 @@ content:
     tag: '*'
   - name: Fondecyt Regular
     tag: Fondecyt Regular
-  - name: Fondecyt Iniciación
-    tag: Fondecyt Iniciación
+  - name: Fondap
+    tag: Fondap
+  - name: Nucleo Milenio
+    tag: Nucleo Milenio
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
