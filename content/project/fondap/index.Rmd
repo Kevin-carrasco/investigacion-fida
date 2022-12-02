@@ -43,12 +43,12 @@ Descripción del fondap
 
 # Equipo
 
-**Investigador principal** : [Investigador C](web-ciudadania.netlify.app/authors/investigadorc/).
+**Investigador principal** : [Investigador C](../../authors/investigadorc/).
 
 **Coinvestigadores**
 
-- [Investigador A](web-ciudadania.netlify.app/authors/investigadora/)
-- [Investigador B](web-ciudadania.netlify.app/authors/investigadorb/)
+- [Investigador A](../../authors/investigadora/)
+- [Investigador B](../../authors/investigadorb/)
 
 **Asistentes de investigación:**
 

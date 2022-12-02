@@ -47,12 +47,12 @@ Descripción del proyecto
 
 # Equipo
 
-**Investigador principal** : [Investigador B](web-ciudadania.netlify.app/authors/investigadorb/).
+**Investigador principal** : [Investigador B](../../authors/investigadorb/).
 
 **Coinvestigadores**
 
-- [Investigador A](web-ciudadania.netlify.app/authors/investigadora/)
-- [Investigador C](web-ciudadania.netlify.app/authors/investigadorc/)
+- [Investigador A](../../authors/investigadora/)
+- [Investigador C](../../authors/investigadorc/)
 
 **Asistentes de investigación:**
 

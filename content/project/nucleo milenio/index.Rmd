@@ -43,12 +43,12 @@ Objetivos del núcleo milenio
 
 # Equipo
 
-**Investigador principal** : [Investigador A](web-ciudadania.netlify.app/authors/investigadora/).
+**Investigador principal** : [Investigador A](../../authors/investigadora/).
 
 **Co-investigadores**:
 
-- [Investigador B](web-ciudadania.netlify.app/authors/investigadorb/).
-- [Investigador C](web-ciudadania.netlify.app/authors/investigadorc/).
+- [Investigador B](../../authors/investigadorb/).
+- [Investigador C](../../authors/investigadorc/).
 
 **Asistentes de investigación:**
 
