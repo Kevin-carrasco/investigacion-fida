@@ -1,0 +1,60 @@
+---
+title: "FONDAP "
+subtitle: FONDAP (2018-2021) 
+summary: "Este es un ejemplo de fondap"
+tags:
+- Fondap
+date: "2018-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+#authors: ["investigadorA","investigadorB","investigadorC"]
+---
+# Resumen
+
+Descripción del fondap
+
+
+
+# Documentos
+
+- [Formulación propuesta](formulacion-ciudadania2.pdf)
+
+
+# Equipo
+
+**Investigador principal** : [Investigador C](web-ciudadania.netlify.app/authors/investigadorc/).
+
+**Coinvestigadores**
+
+- [Investigador A](web-ciudadania.netlify.app/authors/investigadora/)
+- [Investigador B](web-ciudadania.netlify.app/authors/investigadorb/)
+
+**Asistentes de investigación:**
+
+
+# Repositorio
+
+
+
+# Tesistas

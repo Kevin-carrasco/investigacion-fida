@@ -1,0 +1,58 @@
+---
+title: "Nucleo Milenio"
+subtitle:  Nucleo Milenio (2021-2024).
+summary: "Este es un ejemplo de un proyecto de investigación asociado a un nucleo milenio"
+tags:
+- Nucleo Milenio
+date: "2021-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+authors: ["investigadorA","investigadorB","investigadorC"]
+---
+
+# Resumen
+
+
+Objetivos del núcleo milenio
+
+# Documentos
+
+- [Formulación propuesta](formulacion-edumer.pdf)
+
+# Equipo
+
+**Investigador principal** : [Investigador A](web-ciudadania.netlify.app/authors/investigadora/).
+
+**Co-investigadores**:
+
+- [Investigador B](web-ciudadania.netlify.app/authors/investigadorb/).
+- [Investigador C](web-ciudadania.netlify.app/authors/investigadorc/).
+
+**Asistentes de investigación:**
+
+
+**Periodo**: 2021-2024
+
+# Tesistas

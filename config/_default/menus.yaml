@@ -4,24 +4,53 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
+  - name: Inicio
+    url: '#about-proj'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
+#  - name: Posts
+#    url: '#posts'
+#    weight: 20
+  - name: Proyectos
+#    url: '#padlet'
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
-    url: '#contact'
+#  - name: Talks
+#    url: '#talks'
+#    weight: 40
+  - name: Publicaciones
+#    url: '#featured'
+    url: '#publications'
     weight: 60
+#  - name: Contact
+#    url: '#contact'
+#    weight: 60
+#  - name: Presentaciones
+#    url: '#featured'
+#    url: '#talks'
+#    weight: 60
+#  - name: Contact
+#    url: '#contact'
+#    weight: 60
+#  - name: Tesistas
+#    url: '#featured'
+#    url: '/tesistas/'
+#    weight: 70
+#  - name: Contact
+#    url: '#contact'
+#    weight: 60
+#  - name: Links
+#    url: '/links/links/'
+#    weight: 80
+  # - name: Experiencias
+  #   url: '/experience/'
+  #   weight: 60
+  - name: Investigadores
+    url: '/people/'
+    weight: 50
+  # - name: Experiencias
+  #   url: '/experience/'
+  #   weight: 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
