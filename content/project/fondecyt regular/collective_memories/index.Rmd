@@ -29,18 +29,18 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["Isabel Piper","Margarita Velez","Roberto Fernández", "Loreto López"]
+authors: ["IsabelPiper", "MargaritaVelez", "RobertoFernandez", "LoretoLopez"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [Isabel Piper Shafir](../../../authors/isabel-piper/).
+**Investigadora principal** : [Isabel Piper Shafir](../../../authors/isabelpiper/).
 
 **Co-investigadores**:
 
-- [Margarita Velez Maya](../../../authors/margarita-velez/).
-- [Roberto Fernández Droguett](../../../authors/roberto-fernandez/).
-- [Loreto López González](../../../authors/loreto-lopez/).
+- [Margarita Velez Maya](../../../authors/margaritavelez/).
+- [Roberto Fernández Droguett](../../../authors/robertofernandez/).
+- [Loreto López González](../../../authors/loretolopez/).
 
 
 **Periodo**: 2022-2025

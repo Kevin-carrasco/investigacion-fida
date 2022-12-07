@@ -29,19 +29,19 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["María Tijoux","Yasna Contreras","Rita Lourenco", "Luis Thayer", "Liliana Galdámez"]
+authors: ["MariaTijoux", "YasnaContreras", "RitaLourenco", "LuisThayer", "LilianaGaldámez"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [María Emilia Tijoux](../../../authors/maria-tijoux/).
+**Investigadora principal** : [María Emilia Tijoux](../../../authors/mariatijoux/).
 
 **Co-investigadores**:
 
-- [Yasna Contreras Gatica](../../../authors/yasna-contreras/).
-- [Rita Lourenco Lages De Oliveira](../../../authors/rita-lourenco/).
-- [Luis Thayer COrrea](../../../authors/luis-thayer/).
-- [Liliana Galdámez Zelada](../../../authors/liliana-galdamez).
+- [Yasna Contreras Gatica](../../../authors/yasnacontreras/).
+- [Rita Lourenco Lages De Oliveira](../../../authors/ritalourenco/).
+- [Luis Thayer COrrea](../../../authors/luisthayer/).
+- [Liliana Galdámez Zelada](../../../authors/lilianagaldamez).
 
 
 **Periodo**: 2018-2021

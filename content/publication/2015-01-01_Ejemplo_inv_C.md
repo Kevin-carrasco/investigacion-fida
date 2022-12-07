@@ -1,7 +1,7 @@
 +++
 title = "Ejemplo Publicación C"
 date = "2015-01-01"
-authors = ["InvestigadorC"]
+authors = ["DeboraDeFina"]
 publication_types = ["5"]
 publication = "Revista de Sociología"
 publication_short = "Revista sociología"
@@ -11,7 +11,7 @@ url_source = ""
 url_code = ""
 image_preview = ""
 selected = false
-projects = []
+projects = ["que_hay_feminismos_chilenos"]
 url_pdf = ""
 url_preprint = ""
 url_dataset = ""

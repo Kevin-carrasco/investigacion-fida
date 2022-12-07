@@ -29,19 +29,19 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["René Garreaud","Duncan Christie","Antonio Lara","Martin Jacques","Anahi Urquiza"]
+authors: ["ReneGarreaud", "DuncanChristie", "AntonioLara", "MartinJacques", "AnahiUrquiza"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [René Garreaud Salazar](../../../authors/rene-garreaud/).
+**Investigadora principal** : [René Garreaud Salazar](../../../authors/renegarreaud/).
 
 **Co-investigadores**:
 
-- [Duncan Christie Browne](../../../authors/duncan-christie/).
-- [Antonio Lara Aguilar](../../../authors/antonio-lara/).
-- [Martín Jacques Coper](../../../authors/martin-jacques/).
-- [Anahi Urquiza Gómez](../../../authors/anahi-urquiza/).
+- [Duncan Christie Browne](../../../authors/duncanchristie/).
+- [Antonio Lara Aguilar](../../../authors/antoniolara/).
+- [Martín Jacques Coper](../../../authors/martinjacques/).
+- [Anahi Urquiza Gómez](../../../authors/anahiurquiza/).
 
 
 **Periodo**: 2022-2023

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Teresita Matus Sepúlveda
+title: Teresa Matus Sepúlveda
 
 weight: 3
 

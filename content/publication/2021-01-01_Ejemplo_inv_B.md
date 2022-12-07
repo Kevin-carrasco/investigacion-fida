@@ -1,7 +1,7 @@
 +++
 title = "Ejemplo Publicación B"
 date = "2021-01-01"
-authors = ["InvestigadorB"]
+authors = ["VivianaSalinas", "IgnacioCabib"]
 publication_types = ["2"]
 publication = "Revista de Sociología"
 publication_short = "Revista Sociologia"
@@ -11,7 +11,7 @@ url_source = ""
 url_code = ""
 image_preview = ""
 selected = false
-projects = []
+projects = ["estudio_curso_vida_vulnerabilidad"]
 url_pdf = ""
 url_preprint = ""
 url_dataset = ""

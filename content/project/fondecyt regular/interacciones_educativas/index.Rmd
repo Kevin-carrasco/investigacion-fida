@@ -29,19 +29,19 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["Christian Miranda","Ricardo Abarca","Jenny Assael","Marcelo Arancibia", "José Medina"]
+authors: ["ChristianMiranda", "RicardoAbarca", "JennyAssael", "MarceloArancibia", "JoseMedina"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [Christian Miranda Jaña](../../../authors/christian-miranda/).
+**Investigadora principal** : [Christian Miranda Jaña](../../../authors/christianmiranda/).
 
 **Co-investigadores**:
 
-- [Ricardo Abarca Alarcón](../../../authors/ricardo-abarca/).
-- [Jenny Assael Budnik](../../../authors/eduardo-valenzuela/).
-- [Marcelo Arancibia Herrera](../../../authors/marcelo-arancibia/).
-- [José Medina Andrade](../../../authors/jose-medina/).
+- [Ricardo Abarca Alarcón](../../../authors/ricardoabarca/).
+- [Jenny Assael Budnik](../../../authors/eduardovalenzuela/).
+- [Marcelo Arancibia Herrera](../../../authors/marceloarancibia/).
+- [José Medina Andrade](../../../authors/josemedina/).
 
 
 **Periodo**: 2018-2021

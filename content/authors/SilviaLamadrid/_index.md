@@ -6,7 +6,7 @@ title: Silvia Lamadrid
 superuser: false
 
 # Role/position
-role: Co-investigador
+role: Co-investigadora
 
 # Organizations/Affiliations
 organizations:

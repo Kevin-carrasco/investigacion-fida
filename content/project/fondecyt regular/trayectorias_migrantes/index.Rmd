@@ -29,17 +29,17 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["Caterine Galaz","María Stang","Antonia Lara"]
+authors: ["CaterineGalaz", "MariaStang", "AntoniaLara"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [Caterine Galaz Valderrama](../../../authors/caterine-galaz/).
+**Investigadora principal** : [Caterine Galaz Valderrama](../../../authors/caterinegalaz/).
 
 **Co-investigadores**:
 
-- [María Stang](../../../authors/maria-stang/).
-- [Antonia Lara Edwards](../../../authors/antonia-lara/).
+- [María Stang](../../../authors/mariastang/).
+- [Antonia Lara Edwards](../../../authors/antonialara/).
 
 
 **Periodo**: 2021-2024

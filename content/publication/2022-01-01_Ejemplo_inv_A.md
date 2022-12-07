@@ -1,7 +1,7 @@
 +++
 title = "Ejemplo de publicacion investigador A"
 date = "2022-01-01"
-authors = ["InvestigadorA", "InvestigadorB"]
+authors = ["JuanCastillo", "EmmanuelleBarozet"]
 publication_types = ["5"]
 publication = " Revista de Sociología"
 publication_short = " Revista Sociología"
@@ -11,7 +11,7 @@ url_source = ""
 url_code = ""
 image_preview = ""
 selected = false
-projects = []
+projects = ["coes"]
 url_pdf = ""
 url_preprint = ""
 url_dataset = ""

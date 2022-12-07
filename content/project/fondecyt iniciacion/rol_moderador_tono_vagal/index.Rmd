@@ -29,12 +29,12 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["Michele Dufey"]
+authors: ["MicheleDufey"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [Michele Dufey Dominguez](../../../authors/michele-dufey/).
+**Investigadora principal** : [Michele Dufey Dominguez](../../../authors/micheledufey/).
 
 **Periodo**: 2018-2021
 

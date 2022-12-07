@@ -29,18 +29,18 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["Viviana Salinas","Eduardo Undurraga","Eduardo Valenzuela", "Ignacio Cabib"]
+authors: ["VivianaSalinas", "EduardoUndurraga", "EduardoValenzuela", "IgnacioCabib"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [Viviana Salinas Ulloa](../../../authors/viviana-salinas/).
+**Investigadora principal** : [Viviana Salinas Ulloa](../../../authors/vivianasalinas/).
 
 **Co-investigadores**:
 
-- [Eduardo Undurraga Fourcade](../../../authors/eduardo-undurraga/).
-- [Eduardo Valenzuela Carvallo](../../../authors/eduardo-valenzuela/).
-- [Ignacio Cabib](../../../authors/ignacio-cabib/).
+- [Eduardo Undurraga Fourcade](../../../authors/eduardoundurraga/).
+- [Eduardo Valenzuela Carvallo](../../../authors/eduardovalenzuela/).
+- [Ignacio Cabib](../../../authors/ignaciocabib/).
 
 
 **Periodo**: 2018-2021

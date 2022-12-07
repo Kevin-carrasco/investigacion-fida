@@ -29,18 +29,18 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["Hector Morales","Consuelo Hernández","Damir Galaz", "Osvaldo zorzano"]
+authors: ["HectorMorales", "ConsueloHernandez", "DamirGalaz", "Osvaldozorzano"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [Héctor Morales Morgado](../../../authors/hector-morales/).
+**Investigadora principal** : [Héctor Morales Morgado](../../../authors/hectormorales/).
 
 **Co-investigadores**:
 
-- [Consuelo Hernández Valenzuela](../../../authors/consuelo-hernandez/).
-- [Damir Galaz Fernández](../../../authors/damir-galaz/).
-- [Osvaldo Zorzano Betancourt](../../../authors/osvaldo-zorzano/).
+- [Consuelo Hernández Valenzuela](../../../authors/consuelohernandez/).
+- [Damir Galaz Fernández](../../../authors/damirgalaz/).
+- [Osvaldo Zorzano Betancourt](../../../authors/osvaldozorzano/).
 
 
 **Periodo**: 2021-2024

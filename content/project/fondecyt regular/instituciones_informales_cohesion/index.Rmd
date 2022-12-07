@@ -29,17 +29,17 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["Emmanuelle Barozet","Emilio Moya","Vicente Espinoza"]
+authors: ["EmmanuelleBarozet", "EmilioMoya", "VicenteEspinoza"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [Emmanuelle Barozet](../../../authors/emmanuelle-barozet/).
+**Investigadora principal** : [Emmanuelle Barozet](../../../authors/emmanuellebarozet/).
 
 **Co-investigadores**:
 
-- [Emilio Moya Díaz](../../../authors/emilio-moya/).
-- [Vicente Espinoza](../../../authors/vicente-espinoza/).
+- [Emilio Moya Díaz](../../../authors/emiliomoya/).
+- [Vicente Espinoza](../../../authors/vicenteespinoza/).
 
 
 **Periodo**: 2021-2025

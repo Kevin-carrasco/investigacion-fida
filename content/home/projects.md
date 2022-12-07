@@ -18,9 +18,7 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: project
-  
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 3
+
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0

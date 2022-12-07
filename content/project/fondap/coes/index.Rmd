@@ -1,7 +1,7 @@
 ---
 title: "Centro de Estudios de Conflicto y Cohesión Social (COES)"
 subtitle:  Fondap (2014-2023).
-summary: ""
+summary: "Fondo de Financiamiento de Centros de Investigación en Áreas Prioritarias"
 tags:
 - Fondap
 date: "2021-03-31T00:00:00Z"
@@ -29,19 +29,19 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["María Méndez","Dante Contreras","Juan Carlos Castillo", "Emmanuelle Barozet", "Alfredo Joignant"]
+authors: ["MariaMendez", "DanteContreras", "JuanCastillo", "EmmanuelleBarozet", "AlfredoJoignant"]
 ---
 
 # Equipo
 
-**Investigadora principal** : [María Luisa Méndez Layera](../../../authors/maria-mendez/).
+**Investigadora principal** : [María Luisa Méndez Layera](../../../authors/mariamendez/).
 
 **Co-investigadores**:
 
-- [Dante Contreras](../../../authors/dante-contreras/).
-- [Juan Carlos Castillo Valenzuela](../../../authors/juan-castillo/).
-- [Emmanuelle Barozet](../../../authors/emmanuelle-barozet/).
-- [Alfredo Joignant](../../../authors/alfredo-joignant/).
+- [Dante Contreras](../../../authors/dantecontreras/).
+- [Juan Carlos Castillo Valenzuela](../../../authors/juancastillo/).
+- [Emmanuelle Barozet](../../../authors/emmanuellebarozet/).
+- [Alfredo Joignant](../../../authors/alfredojoignant/).
 
 
 **Periodo**: 2014-2023
