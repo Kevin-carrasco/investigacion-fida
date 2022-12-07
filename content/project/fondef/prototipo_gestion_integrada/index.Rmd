@@ -1,0 +1,52 @@
+---
+title: "Prototipo de gestión integrada para una reinserción social eficaz"
+subtitle:  Fondef (2021-2023).
+summary: ""
+tags:
+- Fondef
+date: "2021-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+authors: ["Guillermo Sanhueza","Richard Weber","María Urquieta", "Lucía Dammert", "Álvaro Castro"]
+---
+
+# Equipo
+
+**Investigadora principal** : [Guillermo Sanhueza Olivares](../../../authors/guillermo-sanhueza/).
+
+**Co-investigadores**:
+
+- [Richard Weber](../../../authors/richard-weber/).
+- [María Urquieta Álvarez](../../../authors/maria-urquieta/).
+- [Lucía Dammert Guardia](../../../authors/lucia-dammert/).
+- [Álvaro Castro Morales](../../../authors/alvaro-castro/).
+
+
+**Periodo**: 2021-2023
+
+**Facultad**: Ciencias Sociales
+
+**Departamento**: Trabajo Social
+

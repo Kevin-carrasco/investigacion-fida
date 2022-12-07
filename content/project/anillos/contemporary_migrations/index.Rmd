@@ -1,0 +1,52 @@
+---
+title: "Contemporary Migrations in Chile: Challenges to Democracy, Global Citizenship, and Access to Non-discriminatory Rights"
+subtitle:  Programa de Investigación Asociativa (2018-2021).
+summary: ""
+tags:
+- Anillos
+date: "2021-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+authors: ["María Tijoux","Yasna Contreras","Rita Lourenco", "Luis Thayer", "Liliana Galdámez"]
+---
+
+# Equipo
+
+**Investigadora principal** : [María Emilia Tijoux](../../../authors/maria-tijoux/).
+
+**Co-investigadores**:
+
+- [Yasna Contreras Gatica](../../../authors/yasna-contreras/).
+- [Rita Lourenco Lages De Oliveira](../../../authors/rita-lourenco/).
+- [Luis Thayer COrrea](../../../authors/luis-thayer/).
+- [Liliana Galdámez Zelada](../../../authors/liliana-galdamez).
+
+
+**Periodo**: 2018-2021
+
+**Facultad**: Ciencias Sociales
+
+**Departamento**: Sociología
+

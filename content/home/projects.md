@@ -18,6 +18,9 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: project
+  
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 3
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -32,10 +35,18 @@ content:
     tag: '*'
   - name: Fondecyt Regular
     tag: Fondecyt Regular
+  - name: Fondecyt Postdoctorado
+    tag: Fondecyt Postdoctorado
+  - name: Fondecyt Iniciacion
+    tag: Fondecyt Iniciacion
   - name: Fondap
     tag: Fondap
-  - name: Nucleo Milenio
-    tag: Nucleo Milenio
+  - name: Iniciativa Milenio
+    tag: Iniciativa Milenio
+  - name: Fondef
+    tag: Fondef
+  - name: Programa de Investigación Asociativa
+    tag: Anillos
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

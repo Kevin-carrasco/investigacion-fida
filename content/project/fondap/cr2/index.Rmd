@@ -1,0 +1,52 @@
+---
+title: "Center for Climate and Resilience Research (CR)2"
+subtitle:  Fondap (2022-2023).
+summary: ""
+tags:
+- Fondap
+date: "2021-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+authors: ["René Garreaud","Duncan Christie","Antonio Lara","Martin Jacques","Anahi Urquiza"]
+---
+
+# Equipo
+
+**Investigadora principal** : [René Garreaud Salazar](../../../authors/rene-garreaud/).
+
+**Co-investigadores**:
+
+- [Duncan Christie Browne](../../../authors/duncan-christie/).
+- [Antonio Lara Aguilar](../../../authors/antonio-lara/).
+- [Martín Jacques Coper](../../../authors/martin-jacques/).
+- [Anahi Urquiza Gómez](../../../authors/anahi-urquiza/).
+
+
+**Periodo**: 2022-2023
+
+**Facultad**: Ciencias Físicas y Matemáticas
+
+**Departamento**: Geofísica
+

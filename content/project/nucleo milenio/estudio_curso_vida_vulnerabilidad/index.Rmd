@@ -1,0 +1,51 @@
+---
+title: "Nucleo Milenio para el Estudio del Curso de Vida y la Vulnerabilidad (MLIV)"
+subtitle:  Iniciativa Milenio (2018-2021).
+summary: ""
+tags:
+- Iniciativa Milenio
+date: "2021-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+authors: ["Viviana Salinas","Eduardo Undurraga","Eduardo Valenzuela", "Ignacio Cabib"]
+---
+
+# Equipo
+
+**Investigadora principal** : [Viviana Salinas Ulloa](../../../authors/viviana-salinas/).
+
+**Co-investigadores**:
+
+- [Eduardo Undurraga Fourcade](../../../authors/eduardo-undurraga/).
+- [Eduardo Valenzuela Carvallo](../../../authors/eduardo-valenzuela/).
+- [Ignacio Cabib](../../../authors/ignacio-cabib/).
+
+
+**Periodo**: 2018-2021
+
+**Facultad**: Ciencias Sociales
+
+**Departamento**: Sociología
+

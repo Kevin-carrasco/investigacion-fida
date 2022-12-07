@@ -1,0 +1,50 @@
+---
+title: "No, esos no se cuentan. Instituciones informales y cohesión social: legitimación, crítica y disputas en el orden normativo del Chile actual"
+subtitle:  Fondecyt Regular (2021-2025).
+summary: ""
+tags:
+- Fondecyt Regular
+date: "2021-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+authors: ["Emmanuelle Barozet","Emilio Moya","Vicente Espinoza"]
+---
+
+# Equipo
+
+**Investigadora principal** : [Emmanuelle Barozet](../../../authors/emmanuelle-barozet/).
+
+**Co-investigadores**:
+
+- [Emilio Moya Díaz](../../../authors/emilio-moya/).
+- [Vicente Espinoza](../../../authors/vicente-espinoza/).
+
+
+**Periodo**: 2021-2025
+
+**Facultad**: Ciencias Sociales
+
+**Departamento**: Sociología
+

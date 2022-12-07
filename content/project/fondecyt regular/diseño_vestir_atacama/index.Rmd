@@ -1,0 +1,51 @@
+---
+title: "Diseño y formas de vestir en el desierto de Atacama en el Siglo XX"
+subtitle:  Fondecyt Regular (2021-2024).
+summary: ""
+tags:
+- Fondecyt Regular
+date: "2021-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+authors: ["Hector Morales","Consuelo Hernández","Damir Galaz", "Osvaldo zorzano"]
+---
+
+# Equipo
+
+**Investigadora principal** : [Héctor Morales Morgado](../../../authors/hector-morales/).
+
+**Co-investigadores**:
+
+- [Consuelo Hernández Valenzuela](../../../authors/consuelo-hernandez/).
+- [Damir Galaz Fernández](../../../authors/damir-galaz/).
+- [Osvaldo Zorzano Betancourt](../../../authors/osvaldo-zorzano/).
+
+
+**Periodo**: 2021-2024
+
+**Facultad**: Ciencias Sociales
+
+**Departamento**: Antropología
+

@@ -51,7 +51,7 @@ css_style =  "text-align: center;"
  # CSS class.
  css_class = ""
 +++
-### ¡Bienvenid-s al sitio web Facso!
+### ¡Bienvenid-s al sitio web Investigación FIDA!
 <br><br> Esta página busca vincular proyectos, investigadores y sus publicaciones asociadas.
 
 <!-- ## Get inspired -->
