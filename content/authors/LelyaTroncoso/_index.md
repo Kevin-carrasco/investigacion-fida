@@ -42,13 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:camila.jarai@mail.udp.cl'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Camilaji
+  link: 'mailto:@uchile.cl'
+# icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_Yf0PLcAAAAJ&hl=en
+  link: https://scholar.google.com/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

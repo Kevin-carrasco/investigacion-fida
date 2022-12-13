@@ -42,13 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:camila.jarai@mail.udp.cl'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Camilaji
+  link: 'mailto:@uchile.cl'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_Yf0PLcAAAAJ&hl=en
+  link: https://scholar.google.com
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigador
+- Co-investigador
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
