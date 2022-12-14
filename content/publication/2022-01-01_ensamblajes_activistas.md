@@ -24,10 +24,7 @@ links:
   icon_pack: fa 
   name: Proyecto 
   url: /project/fondecyt-postdoc/que_hay_feminismos_chilenos/ 
-- icon: file 
-  icon_pack: fa 
-  name: Documento 
-  url: https://www.researchgate.net/publication/360874381_Ensamblajes_Activistas_Feminismos_y_Revuelta_social_en_Chile#fullTextFileContent
+
 ---
 
 
