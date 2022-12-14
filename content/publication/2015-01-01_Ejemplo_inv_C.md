@@ -24,5 +24,8 @@ links:
   icon_pack: fa 
   name: Proyecto 
   url: /project/fondecyt-postdoc/que_hay_feminismos_chilenos/ 
-
+- icon: file 
+  icon_pack: fa 
+  name: Documento 
+  url: https://muse.jhu.edu/article/847989
 ---
