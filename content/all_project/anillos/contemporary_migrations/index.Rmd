@@ -32,10 +32,21 @@ url_video: ""
 authors: ["MariaTijoux", "YasnaContreras", "RitaLourenco", "LuisThayer", "LilianaGaldámez"]
 ---
 
+# Equipo
+
+**Investigadora principal** : [María Emilia Tijoux](../../../authors/mariatijoux/).
+
+**Co-investigadores**:
+
+- [Yasna Contreras Gatica](../../../authors/yasnacontreras/).
+- [Rita Lourenco Lages De Oliveira](../../../authors/ritalourenco/).
+- [Luis Thayer COrrea](../../../authors/luisthayer/).
+- [Liliana Galdámez Zelada](../../../authors/lilianagaldamez).
+
+
 **Periodo**: 2018-2021
 
 **Facultad**: Ciencias Sociales
 
 **Departamento**: Sociología
 
-**Universidad**: Universidad de Chile

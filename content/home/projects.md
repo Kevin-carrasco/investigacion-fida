@@ -16,9 +16,11 @@ content:
     tag: '*'
 
 
+widget: portfolio
+
 design:
   columns: '1'
-  view: 3
+  view: 5
   flip_alt_rows: true
 
 ---

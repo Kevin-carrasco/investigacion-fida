@@ -32,6 +32,17 @@ url_video: ""
 authors: ["VivianaSalinas", "EduardoUndurraga", "EduardoValenzuela", "IgnacioCabib"]
 ---
 
+# Equipo
+
+**Investigadora principal** : [Viviana Salinas Ulloa](../../../authors/vivianasalinas/).
+
+**Co-investigadores**:
+
+- [Eduardo Undurraga Fourcade](../../../authors/eduardoundurraga/).
+- [Eduardo Valenzuela Carvallo](../../../authors/eduardovalenzuela/).
+- [Ignacio Cabib](../../../authors/ignaciocabib/).
+
+
 **Periodo**: 2018-2021
 
 **Facultad**: Ciencias Sociales

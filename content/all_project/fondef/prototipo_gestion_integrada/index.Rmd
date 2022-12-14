@@ -32,6 +32,18 @@ url_video: ""
 authors: ["GuillermoSanhueza", "RichardWeber", "MaríaUrquieta", "LuciaDammert", "AlvaroCastro"]
 ---
 
+# Equipo
+
+**Investigadora principal** : [Guillermo Sanhueza Olivares](../../../authors/guillermosanhueza/).
+
+**Co-investigadores**:
+
+- [Richard Weber](../../../authors/richardweber/).
+- [María Urquieta Álvarez](../../../authors/mariaurquieta/).
+- [Lucía Dammert Guardia](../../../authors/luciadammert/).
+- [Álvaro Castro Morales](../../../authors/alvarocastro/).
+
+
 **Periodo**: 2021-2023
 
 **Facultad**: Ciencias Sociales

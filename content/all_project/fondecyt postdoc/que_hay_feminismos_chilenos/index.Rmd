@@ -29,8 +29,16 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["DeboraDeFina"]
+authors: ["DeboraDeFina", "SilviaLamadrid"]
 ---
+
+# Equipo
+
+**Investigadora principal** : [Débora De Fina González](../../../authors/deboradefina/).
+
+**Co-investigadores**:
+
+- [Silvia Lamadrid Álvarez](../../../authors/silvialamadrid/).
 
 
 **Periodo**: 2020-2023
@@ -38,6 +46,4 @@ authors: ["DeboraDeFina"]
 **Facultad**: Ciencias Sociales
 
 **Departamento**: Sociología
-
-**Universidad**: Universidad de Chile
 

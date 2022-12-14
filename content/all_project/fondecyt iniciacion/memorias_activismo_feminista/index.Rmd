@@ -32,6 +32,9 @@ url_video: ""
 authors: ["LelyaTroncoso"]
 ---
 
+# Equipo
+
+**Investigadora principal** : [Lelya Troncoso Pérez](../../../authors/lelyatroncoso/).
 
 **Periodo**: 2020-2023
 
