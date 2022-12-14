@@ -32,11 +32,6 @@ url_video: ""
 authors: ["DeboraDeFina"]
 ---
 
-En este nuevo siglo, el feminismo se ha demostrado una de las fuerzas más potentes de reivindicación y transformación social a nivel internacional. Partiendo de los conceptos de “ensamblaje” (DeLanda, 2006) y “campos discursivos y de acción política” (Alvarez, 1998;2014), este proyecto busca analizar como los feminismos chilenos se han transformado y fortalecido en las últimas dos décadas, articulándose en redes feministas nacionales, estableciendo diálogos y colaboraciones con movimientos sociales y políticos a nivel local y regional y ocupando nuevos espacios en la política formal e informal. La investigación tiene como objetivo central analizar el campo feminista chileno en las dos primeras décadas del siglo XXI, observando su despliegue territorial en los diversos contextos regionales del país.
-
-Para tanto, se propone un enfoque metodológico mixto, con la utilización de herramientas cualitativas que incluyen entrevistas en profundidad, observación participante, participación en eventos y protestas, registro fotográfico y la aplicación de Análisis de Redes Sociales, de carácter cuantitativo.
-
-Las principales preguntas de investigación son:¿Cuales son los aportes y las potencialidades de las luchas feministas en el Chile contemporáneo? ¿En qué medida y cómo se vinculan los feminismos con otras luchas sociales en Chile? ¿Cómo se han articulado y organizado las mujeres chilenas a lo largo del país? ¿Cuales problemáticas cambian de acuerdo con los diversos territorios y cuales son transversales? ¿Cuales son sus características, quienes son sus principales actoras, sus repertorios de acción y sus estrategias? La población de estudio son activistas de colectivos sociales ya sean autónomas o parte de alguna organización social
 
 **Periodo**: 2020-2023
 

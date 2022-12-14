@@ -1,6 +1,6 @@
 ---
 title : "A Rapist in Your Path: Feminist Artivism in the Chilean Social Revolt"
-date : "2021-01-01"
+date : "2015-01-01"
 authors : ["DeboraDeFina"]
 publication_types : ["2"]
 publication : "Feminist Studies"
