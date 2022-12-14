@@ -32,6 +32,9 @@ url_video: ""
 authors: ["MariaMendez", "DanteContreras", "JuanCastillo", "EmmanuelleBarozet", "AlfredoJoignant"]
 ---
 
+
+
+
 **Periodo**: 2014-2023
 
 **Facultad**: Economía y Negocios
