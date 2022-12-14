@@ -1,9 +1,9 @@
 ---
-title: "Nucleo Milenio para el Estudio del Curso de Vida y la Vulnerabilidad (MLIV)"
-subtitle:  Iniciativa Milenio (2018-2021).
+title: "Contemporary Migrations in Chile: Challenges to Democracy, Global Citizenship, and Access to Non-discriminatory Rights"
+subtitle:  Programa de Investigación Asociativa (2018-2021).
 summary: ""
 tags:
-- Iniciativa Milenio
+- Anillos
 date: "2021-03-31T00:00:00Z"
 show_date: false
 # Optional external URL for project (replaces project detail page).
@@ -29,19 +29,8 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["VivianaSalinas", "EduardoUndurraga", "EduardoValenzuela", "IgnacioCabib"]
+authors: ["MariaTijoux", "YasnaContreras", "RitaLourenco", "LuisThayer", "LilianaGaldámez"]
 ---
-
-# Equipo
-
-**Investigadora principal** : [Viviana Salinas Ulloa](../../../authors/vivianasalinas/).
-
-**Co-investigadores**:
-
-- [Eduardo Undurraga Fourcade](../../../authors/eduardoundurraga/).
-- [Eduardo Valenzuela Carvallo](../../../authors/eduardovalenzuela/).
-- [Ignacio Cabib](../../../authors/ignaciocabib/).
-
 
 **Periodo**: 2018-2021
 
@@ -49,3 +38,4 @@ authors: ["VivianaSalinas", "EduardoUndurraga", "EduardoValenzuela", "IgnacioCab
 
 **Departamento**: Sociología
 
+**Universidad**: Universidad de Chile
