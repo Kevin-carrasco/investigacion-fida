@@ -39,5 +39,3 @@ authors: ["MariaTijoux", "YasnaContreras", "RitaLourenco", "LuisThayer", "Lilian
 **Departamento**: Sociología
 
 **Universidad**: Universidad de Chile
-
-
