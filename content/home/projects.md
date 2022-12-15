@@ -16,11 +16,9 @@ content:
     tag: '*'
 
 
-widget: portfolio
-
 design:
   columns: '1'
-  view: 5
+  view: 3
   flip_alt_rows: true
 
 ---

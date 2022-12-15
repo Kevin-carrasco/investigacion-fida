@@ -32,9 +32,13 @@ url_video: ""
 authors: ["MariaTijoux", "YasnaContreras", "RitaLourenco", "LuisThayer", "LilianaGaldámez"]
 ---
 
+**Periodo**: 2018-2021
+
+**Facultad**: Ciencias Sociales
+
+**Departamento**: Sociología
+
+**Universidad**: Universidad de Chile
 
 
-<p><strong>Periodo</strong>: 2018-2021</p>
-<p><strong>Facultad</strong>: Ciencias Sociales</p>
-<p><strong>Departamento</strong>: Sociología</p>
-<p><strong>Universidad</strong>: Universidad de Chile</p>
+

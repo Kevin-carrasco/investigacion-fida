@@ -32,21 +32,11 @@ url_video: ""
 authors: ["ChristianMiranda", "RicardoAbarca", "JennyAssael", "MarceloArancibia", "JoseMedina"]
 ---
 
-# Equipo
-
-**Investigadora principal** : [Christian Miranda Jaña](../../../authors/christianmiranda/).
-
-**Co-investigadores**:
-
-- [Ricardo Abarca Alarcón](../../../authors/ricardoabarca/).
-- [Jenny Assael Budnik](../../../authors/eduardovalenzuela/).
-- [Marcelo Arancibia Herrera](../../../authors/marceloarancibia/).
-- [José Medina Andrade](../../../authors/josemedina/).
-
-
 **Periodo**: 2018-2021
 
 **Facultad**: Ciencias Sociales
 
 **Departamento**: Educación
+
+
 
