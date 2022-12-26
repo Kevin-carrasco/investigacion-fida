@@ -1,0 +1,55 @@
+---
+title: "Prototipo de alerta temprana para sistemas y programas de protección a la infancia desde un enfoque de derechos"
+subtitle:  Fondef (2017-2019).
+summary: ""
+tags:
+- Fondef
+date: "2021-03-31T00:00:00Z"
+show_date: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+- icon: graduation-cap 
+  icon_pack: fa 
+  name: Sitio web 
+  url: http://satinfancia.cl/
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+authors: ["TeresaMatus"]
+---
+
+Objetivo: Diseñar el prototipo a nivel de concepto, considerando los avances nacionales e internacionales en SAT (sistemas de alerta temprana) y modelar los procesos de selección de datos e información en un sistema de indicadores sensibles. Monitorear, capacitar y evaluar el diseño del prototipo con sistemas y programas sociales de amplio espectro.
+
+Instituciones: Aldeas Infantiles SOS Chile, Asociación Chilena Pro Naciones Unidas, Chile Crece Contigo, Gendarmería de Chile, Opción, Pontificia Universidad Católica, SENAME, Universidad de Chile, Universidad Diego Portales
+
+Descripción 
+
+Frente a la crisis que han enfrentado los sistemas de atención de infancia en Chile, se han tomado una serie de medidas gubernamentales de reformulación organizacional y normativa. Nuestro proyecto contribuye con esos nuevos diseños, posicionándose en una relación entre crisis e innovación. La evidencia sostiene que en períodos de alta modificación e incertidumbre se generan espacios potenciales de avances sustantivos. De este modo, el problema/crisis que busca enfrentar el proyecto, es la falta de respuesta oportuna de servicios y programas nacionales de infancia frente a: condiciones de atención deficientes, riesgos y daños de los niños/as atendidos/as, poca información a sus familias, descoordinación de servicios, desigual nivel de capacitación de sus equipos de trabajo. Las fallas en las decisiones claves de intervención, la tardanza en los ajustes, y una falta de evaluación del nivel de calidad de sus ofertas así como la opacidad en la efectividad de sus gastos e inversiones, dificulta la incorporación efectiva a un nivel de gestión operativa de un enfoque de derechos.
+
+La solución propuesta por este proyecto es la construcción de un prototipo de alerta temprana y un índice multidimensional de efectividad anclado en una plataforma de conectividad inteligente. Los objetivos específicos son: construir un diseño de prototipo a nivel de concepto, considerando los avances nacionales e internacionales en un SAT (Sistema de Alerta Temprana), y modelar los procesos de selección de datos e información en un sistema de indicadores sensibles. Un segundo objetivo es construir un índice multidimensional de efectividad.  El tercero es monitorear, capacitar y evaluar el diseño del prototipo con sistemas y programas sociales de amplio espectro. Finalmente, desarrollar una plataforma tecnológica ágil, pertinente y de fácil manejo, que sostenga el prototipo de alerta temprana y el índice multidimensional de efectividad a nivel experimental.
+
+Un Sistema de Alerta Temprana (SAT) es una serie de procedimientos e instrumentos, con los cuales se monitorea una amenaza o evento adverso (natural o antrópico) de carácter previsible. A través este monitoreo, se recolectan y procesan datos e información, ofreciendo pronósticos o predicciones temporales sobre su acción y posibles consecuencias (UNESCO, 2011).
+
+El SAT es posible aplicarlo en todos los campos donde se pronostique una amenaza en determinada población, a través de dos mecanismos para realizar alertas, por un lado, la recolección manual de datos y por otro, la recolección automática. Según la Estrategia Internacional para la Reducción de Desastres (EIRD), un SAT requiere de cinco elementos fundamentales: conocimiento del riesgo, monitoreo de la amenaza, pronóstico, difusión de alertas, capacidades locales de respuesta.
+
+En la actualidad los servicios de infancia y sus sistemas de registro y monitoreo se han centrado más en las características y condiciones de los niños y sus familias, que en la calidad de las ofertas de servicios, lo que responde fundamentalmente al sistema de gestión y a la actual ley de subvenciones.
+
+Lo que este proyecto busca es contribuir con la creación de un SAT para sistemas y programas que se articule con un índice multidimensional de efectividad. Las claves del Fondef son cuatro: interpelar sistemas y programas, observar sus fallas, construir un SAT que permita anticipar y ajustar decisiones a directivos y equipos de trabajo, articulando ese prototipo con un Indice Multidimensional de Efectividad que permita mejorar la calidad de los programas.
