@@ -18,10 +18,6 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 - icon: graduation-cap 
   icon_pack: fa 
   name: Sitio web 
@@ -35,6 +31,7 @@ url_video: ""
 #slides: example
 authors: ["TeresaMatus"]
 ---
+
 
 Objetivo: Diseñar el prototipo a nivel de concepto, considerando los avances nacionales e internacionales en SAT (sistemas de alerta temprana) y modelar los procesos de selección de datos e información en un sistema de indicadores sensibles. Monitorear, capacitar y evaluar el diseño del prototipo con sistemas y programas sociales de amplio espectro.
 
