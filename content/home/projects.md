@@ -16,8 +16,6 @@ content:
     tag: '*'
 
 
-widget: portfolio
-
 design:
   columns: '1'
   view: 3
