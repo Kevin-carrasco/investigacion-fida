@@ -8,7 +8,7 @@ date: "2021-03-31T00:00:00Z"
 show_date: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-
+featured: true
 image:
 #  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
@@ -32,7 +32,6 @@ links:
 authors: ["TeresaMatus"]
 ---
 
-
 Objetivo: Diseñar el prototipo a nivel de concepto, considerando los avances nacionales e internacionales en SAT (sistemas de alerta temprana) y modelar los procesos de selección de datos e información en un sistema de indicadores sensibles. Monitorear, capacitar y evaluar el diseño del prototipo con sistemas y programas sociales de amplio espectro.
 
 Instituciones: Aldeas Infantiles SOS Chile, Asociación Chilena Pro Naciones Unidas, Chile Crece Contigo, Gendarmería de Chile, Opción, Pontificia Universidad Católica, SENAME, Universidad de Chile, Universidad Diego Portales
@@ -50,3 +49,6 @@ El SAT es posible aplicarlo en todos los campos donde se pronostique una amenaza
 En la actualidad los servicios de infancia y sus sistemas de registro y monitoreo se han centrado más en las características y condiciones de los niños y sus familias, que en la calidad de las ofertas de servicios, lo que responde fundamentalmente al sistema de gestión y a la actual ley de subvenciones.
 
 Lo que este proyecto busca es contribuir con la creación de un SAT para sistemas y programas que se articule con un índice multidimensional de efectividad. Las claves del Fondef son cuatro: interpelar sistemas y programas, observar sus fallas, construir un SAT que permita anticipar y ajustar decisiones a directivos y equipos de trabajo, articulando ese prototipo con un Indice Multidimensional de Efectividad que permita mejorar la calidad de los programas.
+
+
+

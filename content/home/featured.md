@@ -7,17 +7,17 @@ widget: featured
 headless: false
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
-title: Destacados
+title: Proyectos destacados
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: featured
+  page_type: project
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
@@ -35,5 +35,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---
