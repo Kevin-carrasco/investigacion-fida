@@ -1,49 +1,47 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Proyecto Investigación FIDA
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
+Este repositorio incluye la elaboración de un sitio web especializado de investigación referente al proyecto Ciencias Sociales para Chile, en el marco del proyecto FIDA 2022.
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+La construcción de este repositorio se basa en el [template Hugo-academic](https://github.com/wowchemy/starter-hugo-academic).
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+Para su elaboración se han realizado reuniones periódicas con Dr. Juan Carlos Castillo, Dr. Rodrigo Asún, e Ignacio Espinoza. Además, en algunas reuniones ha participado la decana Dr. Teresa Matus.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+A continuación se describen los principales acuerdos relativos al proyecto que se han originado de estas reuniones:
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+* El foco principal del sitio web es la inclusión y presentación de Proyectos de Investigación adjudicados bajo fondos concursables:
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
+  - Criterios:
+  
+    I. Fondos concursables externos
+    II. Institución nacional beneficiaria/patrocinante/asociada
+    III. Genera productos de investigación referenciales
+    
+* Un foco secundario del proyecto está en los datos producidos a partir de estas investigaciones
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+  - Hasta el momento la decisión no es almacenar datos en el sitio, sino linkearlos a otros repositorios de datos nacionales e internacionales
+  
+* Un tercer foco del proyecto tiene que ver con las y los investigadores que dirigen estos proyectos.
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) 
-- 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+  - Incluir solo investigadores principales de los proyectos de investigación
 
-## We ask you, humbly, to support this open source movement
+  - Trayectorias académicas:
+    I. Trayectorias relevantes de investigadores que se hayan adjudicado algún fondo concursable de investigación durante su carrera
+    II. Investigadores que no posean proyectos de investigación pero sí tengan índice H alto
+    III. Entrevistar a dos personas de mayor antigüedad de cada departamento para evaluar posibles personas que queden fuera de los criterios de inclusión definidos.
+    
+* Resultados de investigación: 1) publicaciones y 2) otros productos
+  
+    1) Publicaciones: Vincular todas las publicaciones con sus respectivos proyectos de investigación y sus autores
+    2) Otros productos: Existen otros proyectos de investigación concursables que poseen resultados de investigación distintos a las publicaciones académicas (Por ejemplo, FONDEF). Estos resultados se agruparán en otra categoría denominada "Otros productos de investigación".
+    
+    
+----
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+Se deja constancia de interés en utilizar la plataforma del [Open Science Framework](https://osf.io/) como un espacio para que los propios investigadores suban sus proyectos y resultados de investigación, para desde ahí hacer el link con el sitio web FIDA.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+  - Necesidad de estandarización y capacitación sobre cómo utilizar esta plataforma
+  
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
-
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
-
-## Latest news
-<!--START_SECTION:news-->
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
-* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
-<!--END_SECTION:news-->
+    
+    
+    
