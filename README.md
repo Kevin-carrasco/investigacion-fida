@@ -13,7 +13,9 @@ A continuación se describen los principales acuerdos relativos al proyecto que 
   - Criterios:
   
     I. Fondos concursables externos
+    
     II. Institución nacional beneficiaria/patrocinante/asociada
+    
     III. Genera productos de investigación referenciales
     
 * Un foco secundario del proyecto está en los datos producidos a partir de estas investigaciones
@@ -25,13 +27,17 @@ A continuación se describen los principales acuerdos relativos al proyecto que 
   - Incluir solo investigadores principales de los proyectos de investigación
 
   - Trayectorias académicas:
+  
     I. Trayectorias relevantes de investigadores que se hayan adjudicado algún fondo concursable de investigación durante su carrera
+    
     II. Investigadores que no posean proyectos de investigación pero sí tengan índice H alto
+    
     III. Entrevistar a dos personas de mayor antigüedad de cada departamento para evaluar posibles personas que queden fuera de los criterios de inclusión definidos.
     
 * Resultados de investigación: 1) publicaciones y 2) otros productos
   
     1) Publicaciones: Vincular todas las publicaciones con sus respectivos proyectos de investigación y sus autores
+    
     2) Otros productos: Existen otros proyectos de investigación concursables que poseen resultados de investigación distintos a las publicaciones académicas (Por ejemplo, FONDEF). Estos resultados se agruparán en otra categoría denominada "Otros productos de investigación".
     
     
