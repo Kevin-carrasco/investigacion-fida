@@ -52,7 +52,7 @@ main:
   #   weight: 60
   - name: Otros productos
 #    url: '#featured'
-    url: '/productos/'
+    url: '#products'
     weight: 80
 
 

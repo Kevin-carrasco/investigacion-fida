@@ -13,7 +13,7 @@ weight: 70
 title: Otros productos
 
 content:  # Page type to display. E.g. post, talk, publication...
-  page_type: productos
+  page_type: products
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by

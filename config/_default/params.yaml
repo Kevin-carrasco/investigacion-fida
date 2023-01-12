@@ -95,6 +95,8 @@ show_related:
   project: true
   publication: true
   event: true
+  products: true
+  Otros productos: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -117,6 +119,7 @@ projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
+  products_view: 2
 breadcrumb:
   page_types:
     book: true
@@ -128,6 +131,7 @@ comments:
     project: true
     publication: true
     event: true
+    products: true
   disqus:
     shortname: ''
     show_count: true

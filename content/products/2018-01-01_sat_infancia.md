@@ -1,6 +1,6 @@
 ---
 title : "SISTEMA DE MEDICIÓN DE ALERTA Y EFECTIVIDAD PARA PROGRAMAS DE INFANCIA"
-date : "2016-01-01"
+date : "2018-01-01"
 authors : ["TeresaMatus"]
 publication_types : ["2"]
 publication : ""
