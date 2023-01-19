@@ -48,6 +48,16 @@ Se deja constancia de interés en utilizar la plataforma del [Open Science Frame
   - Necesidad de estandarización y capacitación sobre cómo utilizar esta plataforma
   
 
+----
+
+16/01/2023
+
+Además del modelo/protocolo web, falta hacer catastro de la información completa disponible de investigadores (proyectos, formulación de proyectos, bases de datos y resultados).
+- Se debe conversar previamente con profesores/investigadores e invitarles a participar de este proyecto.
+
+Hay una bbdd con el registro de 231 investigadores que se han ganado al menos un proyecto. Desde estos se deberían  generar perfiles o tipos de investigadores que permitan realizar una clasificación general. (por ej. cuántos activos, cuántos retirados, cuántos tienen 1 solo proyectos, entre 2 y 5, entre 5 y 10 y + de 10, cuántos antes del 2000, etc.)
+
+--> Pendiente armar planificación del trabajo hasta cierre del proyecto.
     
     
     
